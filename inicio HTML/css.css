@@ -1,0 +1,11 @@
+﻿body{
+    background-color: #dbd8d8
+}
+
+li{
+    display: inline-block
+}
+
+li.a {
+    border-right: 20px solid
+}
